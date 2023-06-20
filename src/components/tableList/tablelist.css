@@ -1,0 +1,20 @@
+
+.mainList {
+    padding: 3rem;
+}
+
+.heading-List{
+    display: block;
+    text-align: center;
+    padding: 1rem;
+}
+
+.list_add_btn{
+    display: flex;
+    flex-direction: row-reverse;
+}
+
+.list_tbl_cell{
+    font-size: 1rem;
+    font-weight: 600;
+}

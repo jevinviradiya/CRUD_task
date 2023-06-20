@@ -1,0 +1,27 @@
+
+.form-main-div{
+    display: flex;
+    justify-content: center;
+}
+
+.singleField{
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+
+.form-sumbit{
+    border: 2px solid black;
+    padding: 1rem;
+    width: 35%;
+    top: 0;
+}
+
+.validation-err {
+    color: red;
+}
+
+.forminput{
+    height: 30px;
+    font-size: large;
+}

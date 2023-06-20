@@ -1,0 +1,36 @@
+{
+    "Data": [
+        {
+            "id": 1,
+            "name": "Jevin",
+            "email": "jevin@mail.com",
+            "age": 22,
+            "phone": 9265013575,
+            "department": "React JS"
+        },
+        {
+            "id": 2,
+            "name": "Manoj",
+            "email": "manoj@mail.com",
+            "age": 30,
+            "phone": 8935674954,
+            "department": "Python"
+        },
+        {
+            "id": 3,
+            "name": "Prakash",
+            "email": "prakash@mail.com",
+            "age": 26,
+            "phone": 8674659823,
+            "department": "IOS"
+        }, 
+        {
+            "id": 4,
+            "name": "Nevin",
+            "email": "nevin@mail.com",
+            "age": 34,
+            "phone": 8756934576,
+            "department": "Android"
+        }
+    ]
+}
